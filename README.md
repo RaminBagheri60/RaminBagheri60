@@ -62,7 +62,7 @@ I’m particularly interested in building **reliable, scalable, and explainable 
 ## 📫 Connect With Me
 
 * **LinkedIn:** *https://www.linkedin.com/in/bagheriramin/*
-* **GitHub:** You’re already here 🙂
 * **Email:** rbagheri85@gmail.com 🙂
+* **GitHub:** You’re already here 🙂
 
 ---
